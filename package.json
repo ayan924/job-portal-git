@@ -1,6 +1,5 @@
 {
   "name": "job-portal",
-  "homepage": "https://ayan924.github.io/job-portal-git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
